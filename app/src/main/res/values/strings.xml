@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guess The Cartoon</string>
+    <string name="task">Угадайте мультфильм по кадру</string>
+    <string name="res">Результат</string>
+    <string name="next">Дальше</string>
+    <string name="delete">Стереть</string>
+</resources>
